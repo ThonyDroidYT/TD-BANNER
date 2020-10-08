@@ -1,4 +1,6 @@
 # TD-BANNER
+![logo](https://github.com/ThonyDroidYT/TD-BANNER/blob/main/Logo/Banner.jpg)
+
 #BannerTemux #Perzonalizacion #Termux
 
 ## Instalacion 
