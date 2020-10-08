@@ -50,7 +50,7 @@ echo -e "$blanco |----------------------------------------------|"
    sleep 0.5
 echo -e "$rojo |==============================================|"
    sleep 0.5
-echo -e "$verde |      SCRIPT HECHO PARA MIS SEGUIDORES     |"
+echo -e "$verde |      SCRIPT HECHO PARA MIS SEGUIDORES       |"
    sleep 0.5
 echo -e "$rojo |==============================================|"
    sleep 3.0
